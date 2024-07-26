@@ -1,7 +1,7 @@
-font-family: Roboto, sans-serif;
-color: #434455;
-background-color: #fff;
-}
+.header-logo {
+    font-family: Raleway, sans-serif;
+  }
+
 
 a {
 text-decoration: none;
@@ -41,4 +41,39 @@ white-space: nowrap;
 clip-path: inset(100%);
 clip: rect(0 0 0 0);
 overflow: hidden;
+}
+
+/* header */
+.header {
+    
+}
+.header-navigator {
+
+}
+
+.container {
+    display: flex;
+
+}
+.header-logo {
+   
+}
+.header-menu-list {
+    display: flex;
+    margin-right:  470px;
+    
+}
+.nav-link {
+}
+.hero {
+
+}
+.hero-title {
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 51px; 
+    line-height: 1.02;
+    letter-spacing: 0.04em;
+    text-align: center;
+    color: #fff;
 }
